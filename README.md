@@ -5,7 +5,7 @@
 Subscribe Our Channel for Amazing Content ❤️
 
 
-## Moded by : C-T-L
+## Team : C-T-L
 
 Capturing audio (.wav) from target using a link
 
@@ -23,7 +23,7 @@ Port Forwarding using Ngrok
 
 ## Legal disclaimer:
 
-Usage of SayHello for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
+Usage of Mash for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
 
 ## Ngrok Manual Installation :
 
@@ -49,11 +49,11 @@ pkg Install git -y
 
 pkg install php -y
 
-git clone https://github.com/thelinuxchoice/sayhello
+git clone https://github.com/c-t-l/mash
 
-cd sayhello
+cd mash
 
-bash sayhello.sh
+bash mash.sh
 
 chmod +x *
 
