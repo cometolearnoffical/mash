@@ -22,7 +22,18 @@ Port Forwarding using Ngrok
 
 Usage of SayHello for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
 
-### Usage:
+## Ngrok Manual Installation :
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TZu63o3cobU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+```
+cp ngrok mash
+
+```
+
+
+
+### Usage Commands :
 
 ```
 
@@ -46,7 +57,7 @@ e.g ./ngrokxxxxxxxxxxxxx
 
 ### Donate!
 
-Support the authors:
+Support the authors: https://www.youtube.com/channel/UCtwT7_eBpry-8gqhdlH7UuQ?sub_confirmation=1
 
 ### Bitcoin:
 
