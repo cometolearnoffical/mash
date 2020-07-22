@@ -2,11 +2,14 @@
 
 ## YouTube : cometolearn
 
+Subscribe Our Channel for Amazing Content ❤️
+
+
 ## Moded by : C-T-L
 
 Capturing audio (.wav) from target using a link
 
-![hello](https://github.com/c-t-l/Say-Hello/blob/master/IMG_20200722_081219.jpg)
+![hello](https://github.com/c-t-l/mash/blob/master/js/mash.jpg)
 
 ### How it works?
 
