@@ -24,11 +24,14 @@ Usage of SayHello for attacking targets without prior mutual consent is illegal.
 
 ## Ngrok Manual Installation :
 
-<object
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TZu63o3cobU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</object>
+Video Guide https://www.youtube.com/watch?v=TZu63o3cobU
 
 ```
+cd /sdcard
+mv ngrok $HOME
+cd
+chmod +x ngrok
+paste auth token ./ngrokxxxxxxxxxxx(Your Auth Token Not This Line)
 cp ngrok mash
 
 ```
