@@ -22,7 +22,23 @@ Port Forwarding using Ngrok
 
 Usage of SayHello for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
 
-### Usage:
+## Steps For Ngrok :
+
+Go To https://ngrok.com/ and Sign in Or Sign Up 
+Then Click "Download ARM Ngrok" After Downloading Extract It into /sdcard
+now open your Termux And Type Command
+
+```
+cd /sdcard
+mv ngrok $HOME
+cd
+chmod +x ngrok
+Paste Ngrok Auth Token E.g ./ngrokxxxxxxxxxxxxxxxxxxx
+cp ngrok Mash
+
+```
+
+### Usage Commands:
 
 ```
 
@@ -36,11 +52,7 @@ cd sayhello
 
 bash sayhello.sh
 
-chmod +x *
-
-copy your Ngrok Auth Token and paste here
-
-e.g ./ngrokxxxxxxxxxxxxx
+select port 2 ngrok
 
 ```
 
