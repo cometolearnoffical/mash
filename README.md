@@ -1,3 +1,6 @@
+![hello](https://github.com/c-t-l/mash/blob/master/js/mash_logo.jpg)
+
+
 # Mash v1.1
 
 ## YouTube : cometolearn
