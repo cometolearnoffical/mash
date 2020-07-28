@@ -34,17 +34,6 @@ Usage of Mash for attacking targets without prior mutual consent is illegal. It'
 
 Video Guide https://www.youtube.com/watch?v=TZu63o3cobU
 
-```
-cd /sdcard
-mv ngrok $HOME
-cd
-chmod +x ngrok
-paste auth token ./ngrokxxxxxxxxxxx(Your Auth Token Not This Line)
-cp ngrok mash
-
-```
-
-
 
 ### Usage Commands :
 
@@ -53,19 +42,23 @@ Video Guide : https://youtu.be/SgFyeZbyCv4
 ```
 
 pkg Install git -y
-
+```
 pkg install php -y
-
+```
 git clone https://github.com/c-t-l/mash
-
+```
 cd mash
-
-bash mash.sh
-
-chmod +x *
-
+```
+cp ngrok $HOME
+```
+chmod +x ngrok
+```
 copy your Ngrok Auth Token and paste here
-
+```
+cd mash
+```
+bash mash.sh
+```
 e.g ./ngrokxxxxxxxxxxxxx
 
 ```
