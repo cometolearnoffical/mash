@@ -14,6 +14,8 @@ Capturing audio (.wav) from target using a link
 
 ![hello](https://github.com/c-t-l/mash/blob/master/js/mash.jpg)
 
+Idea by SayHello
+
 ### How it works?
 
 After the user grants microphone permissions, a website redirect button of your choice is released to distract the target while small audio files (about 4 seconds in wav format) are sent to the attacker.
@@ -75,3 +77,4 @@ Support the authors: https://www.youtube.com/channel/UCtwT7_eBpry-8gqhdlH7UuQ?su
 ### Bitcoin:
 
 19VMLVLtzkmc9qS4mnNob35bTF6ujx1J8U
+
