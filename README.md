@@ -46,6 +46,8 @@ cp ngrok mash
 
 ### Usage Commands :
 
+Video Guide : https://youtu.be/SgFyeZbyCv4
+
 ```
 
 pkg Install git -y
